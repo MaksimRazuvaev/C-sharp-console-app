@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mrazu\\OneDrive\\Desktop\\UW\\My Projects\\C-sharp-console-app\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {}
+    "C:\\Users\\mrazu\\OneDrive\\Desktop\\UW\\My Projects\\C-sharp-console-app\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mrazu\\OneDrive\\Desktop\\UW\\My Projects\\C-sharp-console-app\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {
+    "C:\\Users\\mrazu\\OneDrive\\Desktop\\UW\\My Projects\\C-sharp-console-app\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mrazu\\OneDrive\\Desktop\\UW\\My Projects\\C-sharp-console-app\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+        "projectUniqueName": "C:\\Users\\mrazu\\OneDrive\\Desktop\\UW\\My Projects\\C-sharp-console-app\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
         "projectName": "CatWorx.BadgeMaker",
-        "projectPath": "c:\\Users\\mrazu\\OneDrive\\Desktop\\UW\\My Projects\\C-sharp-console-app\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+        "projectPath": "C:\\Users\\mrazu\\OneDrive\\Desktop\\UW\\My Projects\\C-sharp-console-app\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
         "packagesPath": "C:\\Users\\mrazu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mrazu\\OneDrive\\Desktop\\UW\\My Projects\\C-sharp-console-app\\CatWorx.BadgeMaker\\obj\\",
+        "outputPath": "C:\\Users\\mrazu\\OneDrive\\Desktop\\UW\\My Projects\\C-sharp-console-app\\CatWorx.BadgeMaker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mrazu\\AppData\\Roaming\\NuGet\\NuGet.Config"
