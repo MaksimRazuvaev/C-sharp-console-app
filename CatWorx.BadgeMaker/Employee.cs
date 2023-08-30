@@ -3,7 +3,7 @@ namespace CatWorx.BadgeMaker {
   {
     private string FirstName;
     private string LastName;
-    private string CompanyName;
+    private string? CompanyName;
     private int Id;
     private string PhotoUrl;
     public Employee(string firstName, string lastName, int id, string photoUrl) {
@@ -25,8 +25,12 @@ namespace CatWorx.BadgeMaker {
 
     }
 
-    public string GetCompanyName() {
+    public string? GetCompanyName() {
       return "Cat Worx";
+    }
+
+    public void SetCompanyName(string companyName) {
+      CompanyName = companyName;
     }
   }
 }
